@@ -15,7 +15,7 @@ Create a constructor functions for the following:
 + Cat  with name, breed and age properties
 + Ferret with name, age, and food requirement properties
 + Bird with name and breed
-+ Fish Name, type, and water_conditions properties
++ Fish Name, species, and water_conditions properties
 
 Create two objects using each constructor function.
 
