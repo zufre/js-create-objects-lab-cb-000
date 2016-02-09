@@ -10,9 +10,9 @@ You work at a pet store, and it's your job to update the website with all the ne
 
 ## Instructions
 
-Create a constructor functions for the following:
+Create a constructor function for each of the following:
 + Dog with name, breed, and age properties
-+ Cat  with name, breed and age properties
++ Cat with name, breed and age properties
 + Ferret with name, age, and food requirement properties
 + Bird with name and breed
 + Fish Name, species, and water_conditions properties
