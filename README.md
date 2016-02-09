@@ -10,10 +10,13 @@ You work at a pet store, and it's your job to update the website with all the ne
 
 ## Instructions
 
-constructor functions for dog (name, breed, age), cat (name, breed age), ferret (name, age, food requirements), bird (name, breed), fish (name, type, water_conditions)
+Create a constructor function for each of the following:
++ Dog with name, breed, and age properties
++ Cat with name, breed and age properties
++ Ferret with name, age, and food requirement properties
++ Bird with name and breed
++ Fish Name, species, and water_conditions properties
 
-create 2 instances of each - 
+Create two objects using each constructor function.
 
-needs to be test driven
-
-browser component??
+Make sure you run the tests to make sure you're solutions work as expected.
