@@ -6,16 +6,16 @@
 
 ## Intro
 
-You work at a pet store, and it's your job to update the website with all the new animals that come into the store. 
+You work at a pet store, and it's your job to update the website with all the new animals that come into the store.
 
 ## Instructions
 
 Create a constructor function for each of the following:
-+ Dog with name, breed, and age properties
-+ Cat with name, breed and age properties
-+ Ferret with name, age, and food requirement properties
-+ Bird with name and breed
-+ Fish Name, species, and water conditions properties
++ Dog with `name`, `breed`, and `age` properties
++ Cat with `name`, `breed`, and `age` properties
++ Ferret with `name`, `age`, and `foodRequirement` properties
++ Bird with `name` and `breed` properties
++ Fish with `name`, `species`, and `waterConditions` properties
 
 Create two objects using each constructor function.
 
