@@ -20,6 +20,5 @@ Create a constructor function for each of the following:
 Create two objects using each constructor function.
 
 Make sure you run the tests to make sure your solutions work as expected.
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-create-objects-lab'>Creating Objects in JS Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-create-objects-lab'>Creating Objects in JS Lab</a> on Learn.co and start learning to code for free.</p>
