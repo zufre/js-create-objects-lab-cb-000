@@ -17,7 +17,6 @@ Create a constructor function for each of the following:
 + Bird with `name` and `breed` properties
 + Fish with `name`, `species`, and `waterConditions` properties
 
-Create two objects using each constructor function.
 
 Make sure you run the tests to make sure your solutions work as expected.
 
