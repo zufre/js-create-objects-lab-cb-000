@@ -1,13 +1,4 @@
-const expect = require('expect');
-const jsdom = require('mocha-jsdom');
-const fs = require('fs');
-const path = require('path');
-
-describe('objects', () => {
-  jsdom({
-    src: fs.readFileSync(path.resolve(__dirname, '..', 'objects.js'), 'utf-8')
-  })
-
+describe('objects', function() {
   describe('Dog constructor', function(){
     it("should create a new dog with three properties", function(){
       var caldwell = new Dog("caldwell", "toy poodle", "4 months");
@@ -62,4 +53,3 @@ describe('objects', () => {
 
   });
 });
-
