@@ -14,5 +14,3 @@ function Ferret(name, breed, foodRequirements) {
   this.breed = breed;
   this.foodRequirements = foodRequirements;
 }
-
-
